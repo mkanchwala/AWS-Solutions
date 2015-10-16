@@ -1,3 +1,3 @@
-# Amazon Web Services
+# AWS Solutions
 
-To demonstrate the capability building on Amazon Web Services By Development, Scripts, DevOps and Configurations
+To demonstrate the various kinds of Solutions using AWS Services and SDKs
